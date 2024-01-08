@@ -1,0 +1,24 @@
+{
+  "name": "simple-get-post-owaps-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamadkvr/simple-get-post-owaps-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamadkvr/simple-get-post-owaps-server/issues"
+  },
+  "homepage": "https://github.com/mohamadkvr/simple-get-post-owaps-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
