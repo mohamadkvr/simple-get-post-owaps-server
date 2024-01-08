@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Middleware for CORS support (Allow all origins for demonstration purposes)
 app.use(cors({
-    origin: '*',
+    origin: 'https://memoryleaks.ir',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     optionsSuccessStatus: 204,
   }));
